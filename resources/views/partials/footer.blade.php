@@ -63,11 +63,11 @@
                         <span>FOLLOW US</span>
                     </div>
                     <div class="lower-footer-socials">
-                        <a href="#"><img src="../assets/img/footer-twitter.png" alt=""></a>                    
-                        <a href="#"><img src="../assets/img/footer-facebook.png" alt=""></a>                    
-                        <a href="#"><img src="../assets/img/footer-youtube.png" alt=""></a>                   
-                        <a href="#"><img src="../assets/img/footer-pinterest.png" alt=""></a>
-                        <a href="#"><img src="../assets/img/footer-periscope.png" alt=""></a>
+                        <a href="#"><img src="/img/footer-twitter.png" alt=""></a>                    
+                        <a href="#"><img src="/img/footer-facebook.png" alt=""></a>                    
+                        <a href="#"><img src="/img/footer-youtube.png" alt=""></a>                   
+                        <a href="#"><img src="/img/footer-pinterest.png" alt=""></a>
+                        <a href="#"><img src="/img/footer-periscope.png" alt=""></a>
                     </div>
                 </div>
             </div>
