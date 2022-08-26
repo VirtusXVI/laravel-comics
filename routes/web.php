@@ -31,12 +31,6 @@ Route::get('/comics-details/{id}', function ($id) {
         }
     }
 
-    // Se non ho trovato il comic con l'id richiesto torno 404
-    if(empty($current_comic)) {
-        abort('404');
-    }
-
-    // Abbiamo trovato il fumetto, passiamo i dettagli alla view
     $data = [
         'current_comic' => $current_comic
     ];
